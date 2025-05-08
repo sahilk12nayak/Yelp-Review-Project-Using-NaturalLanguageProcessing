@@ -12,4 +12,4 @@ All reviews start with 0 "cool" votes, and there is no limit to how many "cool" 
 
 The "useful" and "funny" columns are similar to the "cool" column.
 
-Let's get started! Just follow the directions below!
+Let's get started! Just follow the directions!
